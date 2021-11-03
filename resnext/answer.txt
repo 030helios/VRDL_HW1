@@ -1080,7 +1080,7 @@
 3437.jpg 094.White_breasted_Nuthatch
 0402.jpg 112.Great_Grey_Shrike
 3777.jpg 131.Vesper_Sparrow
-0501.jpg 180.Wilson_Warbler
+0501.jpg 177.Prothonotary_Warbler
 2149.jpg 015.Lazuli_Bunting
 0126.jpg 073.Blue_Jay
 2896.jpg 033.Yellow_billed_Cuckoo
@@ -1695,7 +1695,7 @@
 3918.jpg 188.Pileated_Woodpecker
 0672.jpg 197.Marsh_Wren
 2925.jpg 121.Grasshopper_Sparrow
-3652.jpg 072.Pomarine_Jaeger
+3652.jpg 053.Western_Grebe
 0729.jpg 181.Worm_eating_Warbler
 0071.jpg 131.Vesper_Sparrow
 0261.jpg 082.Ringed_Kingfisher
@@ -2980,7 +2980,7 @@
 1215.jpg 180.Wilson_Warbler
 2865.jpg 125.Lincoln_Sparrow
 0033.jpg 068.Ruby_throated_Hummingbird
-5247.jpg 029.American_Crow
+5247.jpg 030.Fish_Crow
 2690.jpg 032.Mangrove_Cuckoo
 5000.jpg 030.Fish_Crow
 5625.jpg 075.Green_Jay
